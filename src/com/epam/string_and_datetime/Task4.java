@@ -1,4 +1,4 @@
-package com.epam.additional;
+package com.epam.string_and_datetime;
 
 public class Task4 {
     public static void main(String[] args) {

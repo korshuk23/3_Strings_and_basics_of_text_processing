@@ -1,4 +1,4 @@
-package com.epam.additional;
+package com.epam.string_and_datetime;
 
 /**
  * Напишите программу, которая получает на вход строку и находит в ней наибольшее количество

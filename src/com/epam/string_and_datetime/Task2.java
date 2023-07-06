@@ -1,4 +1,4 @@
-package com.epam.additional;
+package com.epam.string_and_datetime;
 
 import java.util.HashSet;
 import java.util.Set;

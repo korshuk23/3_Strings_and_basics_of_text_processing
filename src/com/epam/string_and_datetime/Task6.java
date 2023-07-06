@@ -1,4 +1,4 @@
-package com.epam.additional;
+package com.epam.string_and_datetime;
 
 /**
  * Напишите программу, которая получает на вход две строки и определяет,
